@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uyga vazifa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+        <h1>CSS</h1>
+        <h2>Web sahifaning ko'rinishi</h2>
+        <p>
+            CSS (Cascading Style Sheets) — web sahifaning ko'rinishini, 
+            dizaynini va uslubini boshqarish uchun ishlatiladigan tildir. 
+            U yordamida ranglar, shriftlar, oraliqlar, joylashuv, 
+            animatsiya va responsive dizayn kabi imkoniyatlar taqdim etadi.
+        </p>
+
+        <hr>
+
+        <h3>CSS ning asosiy imkoniyatlari:</h3>
+        <ul>
+            <li>Ranglar, shriftlar, oraliqlar va orqa fonlarni sozlaydi.</li>
+            <li>Elementlar joylashuvini boshqaradi: flexbox, grid va boshqalar.</li>
+            <li>Tipografika: shrift turi, hajmi, alinligi va matn uslublarini o'rnatadi.</li>
+            <li>Responsive dizayn yaratadi: turli qurilmalarga mos ko'rinishni ta'minlaydi.</li>
+            <li>Animatsiya va effektlar orqali sahifani yanada jozibador qiladi.</li>
+        </ul>
+    </div>
+</body>
+</html>
